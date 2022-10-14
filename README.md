@@ -29,3 +29,15 @@
     <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="css3"/>   
 
  </p>
+ <h2 align="center">My Github Stats</h2>
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranbhil&layout=compact)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kiranbhil)](https://git.io/streak-stats)
+
+
+![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranbhil&show_icons=true&theme=radical)
+
+
+
+
