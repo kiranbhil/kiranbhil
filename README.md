@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">Hi 👋, I'm Kiran Bhil</h2>
 
-<h3 align="center">Full Stack Web Developer </h3>
+<!-- <h3 align="center">Full Stack Web Developer </h3> -->
 
 <h4 align="center">A Highly enthusiastic and hardworking developer. A person who is eager to learn new technologies have been able to deliver a consistent approach throughout a challenging period of development.</h4>
 
